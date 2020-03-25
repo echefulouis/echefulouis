@@ -6,7 +6,7 @@ def calculate(rad):           #Area calculation function
     return area
 
 print('This program calculates the area of a circle')
-time.sleep(2)     #delays for 2 seconds
+time.sleep(1)     #delays for 2 seconds
 
 x= float(input("Enter the radius of the Circle  ")) #collect the radius of the circle from the user
 
