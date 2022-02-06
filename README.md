@@ -7,8 +7,8 @@
 **echefulouis/echefulouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning Data Science with Python
-- 📫 How to reach me: echefulouis456@gmail.com
-- ⚡ Fun fact: I love video games.
+🔭 I’m currently working on Machine Learning Projects
+🌱 I’m currently learning Data Science with Python
+📫 How to reach me: echefulouis456@gmail.com
+⚡ Fun fact: I love video games.
 
