@@ -1,6 +1,6 @@
 <h2> Hi, I'm Echefu Louis!</h2>
 
-I am a Mechatronics engineer and have research interest in Automation and Control Syatems👨‍💻. I am Inerested in automating tasks by building machine learning Models. I love Video games :).
+I am a Mechatronics Engineer. I have research interest in Automation and Control Systems👨‍💻. I am Inerested in automating tasks by building machine learning Models. I love Video games :).
 
 
 - 🔭 I’m currently learning Data Science with Python.
