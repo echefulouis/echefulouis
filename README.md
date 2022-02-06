@@ -1,14 +1,13 @@
-<h2> Hi, I'm Echefu Louis! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!--
+<h2> Hi, I'm Echefu Louis!</h2>
 
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+I am a Mechatronics engineer and have research interest in Automation and Control Syatems👨‍💻. I am Inerested in automating tasks by building machine learning Models. I love Video games :).
 
-**echefulouis/echefulouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-🔭 I’m currently working on Machine Learning Projects
-🌱 I’m currently learning Data Science with Python
-📫 How to reach me: echefulouis456@gmail.com
-⚡ Fun fact: I love video games.
+- 🔭 I’m currently learning Data Science with Python.
+- 🍔 I love food.
+- ⚡ Currently Building my Portfolio.
+- 💬 Email: (echefulouis456@gmail.com)
 
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/luwie_zz?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/echefu-louis-53523315a)
