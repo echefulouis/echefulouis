@@ -1,6 +1,6 @@
 <h2> Hi, I'm Echefu Louis!</h2>
 
-I am a Computer Science graduate student at Louisiana State University, Shreveport. I am interested in sotware development and automation by building machine learning Models. I love Video games :).
+I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in sotware development and automation by building machine learning Models. I love Video games :).
 
 
 - 🔭 I’m currently learning Data Science with Python.
