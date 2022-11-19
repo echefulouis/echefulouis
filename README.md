@@ -1,6 +1,6 @@
 <h2> Hi, I'm Echefu Louis!</h2>
 
-I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in Software Development, Robotics and Automation I love Video games :).
+I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in Software Development, Robotics and Automation that can increase efficiency and reduce costs in industry operations around the world. I love Video games :).
 
 
 - 🔭 I’m currently learning Robot Operating System.
