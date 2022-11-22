@@ -2,6 +2,7 @@
 
 I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in Software Development, Robotics and Automation that can increase efficiency and reduce costs in industry operations around the world. I love Video games :).
 
+Languages: Python, Java and Javascript
 
 - 🔭 I’m currently learning Robot Operating System.
 - 🍔 I love food.
