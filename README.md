@@ -2,11 +2,11 @@
 
 I am a Computer Science graduate student at Louisiana State University, Shreveport. I have experience in building and deploying software solutions in the Cloud. During my free time, I love to play video games :)
 
-Languages: Python, Java, JavaScript
-Frameworks/Libraries: Node.js, Django, Spring Boot
-Tools: Docker, Git, Jenkins, AWS, Terraform
-Databases: MySQL, MongoDB, Oracle
-Other: RESTful API development, Agile methodologies
+<p>Languages: Python, Java, JavaScript</p>
+<p>Frameworks/Libraries: Node.js, Django, Spring Boot</p>
+<p>Tools: Docker, Git, Jenkins, AWS, Terraform</p>
+<p>Databases: MySQL, MongoDB, Oracle</p>
+<p>Other: RESTful API development, Agile methodologies</p>
 
 - 🔭 I’m currently learning about the cloud
 - 🍔 I love food.
