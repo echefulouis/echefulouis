@@ -1,10 +1,14 @@
 <h2> Hi, I'm Echefu Louis!</h2>
 
-I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in Software Development, Robotics and Automation that can increase efficiency and reduce costs in industry operations around the world. I love Video games :).
+I am a Computer Science graduate student at Louisiana State University, Shreveport. I have experience in building and deploying software solutions in the Cloud. During my free time, I love to play video games :)
 
-Languages: Python, Java and C#
+Languages: Python, Java, JavaScript
+Frameworks/Libraries: Node.js, Django, Spring Boot
+Tools: Docker, Git, Jenkins, AWS, Terraform
+Databases: MySQL, MongoDB, Oracle
+Other: RESTful API development, Agile methodologies
 
-- 🔭 I’m currently learning Robot Operating System.
+- 🔭 I’m currently learning about the cloud
 - 🍔 I love food.
 - ⚡ Currently Building my Portfolio.
 - 💬 Email: (echefulouis456@gmail.com)
