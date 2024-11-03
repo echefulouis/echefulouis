@@ -14,4 +14,4 @@ I am a Computer Science graduate student at Louisiana State University, Shrevepo
 - 💬 Email: (echefulouis456@gmail.com)
 
 ### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/echefu-louis-53523315a)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/echefulouis)
