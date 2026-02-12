@@ -1,17 +1,21 @@
-<h2> Hi, I'm Echefu Louis!</h2>
 
-I am a Computer Science graduate student at Louisiana State University, Shreveport. I have experience in building and deploying software solutions in the Cloud. During my free time, I love to play video games :)
+<h2>Hi, I'm Louis Echefu! 👋</h2>
 
-<p>Languages: Python, Java, JavaScript</p>
-<p>Frameworks/Libraries: Node.js, Django, Spring Boot</p>
-<p>Tools: Docker, Git, Jenkins, AWS, Terraform</p>
-<p>Databases: MySQL, MongoDB, Oracle</p>
-<p>Other: RESTful API development, Agile methodologies</p>
+I'm a **Cloud Application Developer** specializing in building scalable, secure serverless applications. I hold an M.Sc. in Computer Systems Technology from Louisina State University and currently an Associate Delivery Consultant. At my Spare time, I love playing video games.
 
-- 🔭 I’m currently learning about the cloud
-- 🍔 I love food.
-- ⚡ Currently Building my Portfolio.
-- 💬 Email: (echefulouis456@gmail.com)
+### Tech Stack
 
-### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/echefulouis)
+**Languages:** Python, TypeScript  
+**Cloud & DevOps:** AWS Serverless Services, CDK, Docker, Git, CI/CD  
+**Focus Areas:** Serverless Architecture, Generative AI, Agentic Solutions
+
+### What I'm Up To
+
+- Building scalable serverless applications
+- Learning about Generative AI and agentic solutions
+- volunteer Initiatives
+
+### Let's Connect
+
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/echefulouis)  
+📧 echefulouis456@gmail.com
